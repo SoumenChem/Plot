@@ -1,3 +1,3 @@
 # Plots
 
-Scripts for different heatplots.
+Scripts for different types of plots.
